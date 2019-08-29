@@ -42,6 +42,4 @@ while not finished:
 
     if finished == False:
         print("Sorry we didn't recognize that. Let's try again.\n")
-        mixer.music.load('Didntrecognize.mp3')
-        mixer.music.play()
         time.sleep(5)
