@@ -1,2 +1,2 @@
 # python-voiceSystem
-Simple system that helps you do stuff on your computer
+Simple voice system that helps you complete tasks in your computer through voice recogntion
